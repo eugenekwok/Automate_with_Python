@@ -1,1 +1,1 @@
-
+To practice Chapter2 Flow Control from AUTOMATE THE BORING STUFF WITH PYTHON by AL SWEIGART.
